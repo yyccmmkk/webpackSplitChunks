@@ -4,6 +4,7 @@ webpack+typescript+sass+splitChunks
 -----
 #### 开发启动
 
+    首先安装依赖 npm i
     node server 或 npm run dev
 浏览器访问：http://localhost:3030/ 也可以修改server.js 配置端口
 
