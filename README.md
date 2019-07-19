@@ -13,3 +13,7 @@ webpack+typescript+sass+splitChunks
     npm run build
 
 构建成功后把构建出的文件依次引入页面
+
+####log
+    
+    2019.7.19 修复TS版本升级引起的报错
