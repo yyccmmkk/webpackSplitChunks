@@ -22,7 +22,7 @@ export class Main{
         Main.initStyle();
         new ReferenceLine({
             item:'[data-query="item"]',
-            range:'[data-query="canvasBox"]',
+            range:'.box',
             drag: true,
             zIndex: 1,//参考线层级
             lineColor:'red',

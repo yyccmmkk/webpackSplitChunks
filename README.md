@@ -16,4 +16,5 @@ webpack+typescript+sass+splitChunks
 
 ####log
     
+    2019.8.22 demo 更新
     2019.7.19 修复TS版本升级引起的报错
